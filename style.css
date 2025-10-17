@@ -3,32 +3,36 @@ body {
     color: rgb(255, 229, 248);
 
     font-family: "Story Script", sans-serif;
-margin: 0px;
+    margin: 0px;
 }
 
-header{
-font-size: 50px;
-text-align: center;
+header {
+    font-size: 50px;
+    text-align: center;
 
-border-bottom: double 5px pink;
-padding: 30px;
-color: #edad9e
+    border-bottom: double 5px pink;
+    padding: 30px;
+    color: #edad9e
 }
 
 h1 {
-font-size: 30px;
-padding-left: 30px;
+    font-size: 30px;
+    padding-left: 30px;
 }
 
-p{
-font-size: 20px;
-padding-left: 30px;
+p {
+    font-size: 20px;
+    padding-left: 30px;
 }
 
-section{
+section {
     background-color: pink;
     padding-bottom: 80px;
     padding-top: 80px;
-    display:flex;
+    display: flex;
     justify-content: center;
+}
+
+div {
+    margin-right: 10px;
 }
