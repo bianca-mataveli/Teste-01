@@ -12,7 +12,7 @@ header {
 
     border-bottom: double 5px pink;
     padding: 30px;
-    color: #edad9e
+    color: #ffdcd4
 }
 
 h1 {
@@ -46,4 +46,12 @@ img{
     overflow-x: auto;
     gap: 10px;
     padding-left: 20px;
+}
+
+h2{
+    padding-left: 30px;
+}
+
+body{
+    padding-bottom: 40px;
 }
